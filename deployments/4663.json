@@ -1,0 +1,60 @@
+{
+  "chainId": 4663,
+  "deployer": "0x150E759e7a54de09D43FB5758083D467Ad83B00E",
+  "contracts": {
+    "FeeSplitter": "0xfbae53bc7969b229f0aa46ad144dd2eb5a23c9a0",
+    "PonsAdapter": "0xc6d9f5f5a69b1c3eff7720e208da0278b5d1d008",
+    "UpAdapter": "0x03bb50cc765dba8bf6c878331be4b19818b6d614",
+    "UniswapAdapter": "0x3a6fad0d90088c92e4947be2b5a8575d43bd9844",
+    "SpinnerCreatorVaults": "0x5cdc8392a47a00e4d0c4a6b36ccba3885c832006",
+    "SpinnerCreatorVault": "0xca9e560d5be888d7f1f86787d01d6e5e27087046",
+    "PonsLaunchAdapter": "0xf026cc5a2c2f36d2a6827ecfd67ba7d1c872de39",
+    "TorchLaunchAdapter": "0x43ff4c44f44b90e85f9ef04ff6e6d653ebfdf539",
+    "PairLaunchAdapter": "0x2481b32d8579b0343488210631ca1406e34241c9",
+    "Spinners": "0xcdbce79e9a7c6815e7e2926f410a92ab666fdfb5",
+    "SpinBotGuard": "0xc82694a63ccf7b65d911d2ad132159f8506d439b",
+    "LongAdapter": "0x07a81d8a53c13eec5630afbb515377de3e9c4c58",
+    "HookList": "0xcf9a55884bfd2c0524369670e96762e4de71fca2",
+    "FoboAdapter": "0x88aa0b5ceed53ee2546c9e62096a28ed21805798"
+  },
+  "blocks": {
+    "FeeSplitter": 102524389,
+    "PonsAdapter": 102524400,
+    "UpAdapter": 102524406,
+    "UniswapAdapter": 107764088,
+    "SpinnerCreatorVaults": 102524413,
+    "SpinnerCreatorVault": 102524417,
+    "PonsLaunchAdapter": 102524426,
+    "TorchLaunchAdapter": 102524430,
+    "PairLaunchAdapter": 107764097,
+    "Spinners": 102619528,
+    "SpinBotGuard": 102619553,
+    "LongAdapter": 107764103,
+    "HookList": 107764077,
+    "FoboAdapter": 110839855
+  },
+  "operators": [
+    "0xc7c9b132dadfA7c13a6cFcFd2F7Cd766f5E950E1",
+    "0x76B6465cdAC39Addc1F647f4eafc0f7f92C637e1"
+  ],
+  "devMinted": true,
+  "retired": {
+    "contracts": {
+      "Spinners": "0x1c94095c41d3dfa05ef779cb1e70dba78b11febe",
+      "SpinBotGuard": "0xcbb5bfd38512618d84752bfae757ddef95ea204a"
+    },
+    "positions": "0xc6908fa0291380e4447fa28c28709760d6eee810",
+    "note": "the first Spinners (ERC721A, 2026-10-31) and the guard and positions made for it; replaced by the ERC721-C Spinners. Its owner is left as it is."
+  },
+  "replaced": {
+    "UniswapAdapter": [
+      "0x5fb1cef659158bfee5633011ef80f51a10e88e8f"
+    ],
+    "PairLaunchAdapter": [
+      "0x10ae280dd9b65bc8963235245374dbd34994884f"
+    ],
+    "LongAdapter": [
+      "0x37d7bc731b9733f4ab0f0449f9d3d7346e81458f"
+    ]
+  }
+}

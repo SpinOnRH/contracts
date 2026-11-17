@@ -1,0 +1,31 @@
+{
+  "chainId": 4663,
+  "admin": "0x150E759e7a54de09D43FB5758083D467Ad83B00E",
+  "collection": "0xcdbce79e9a7c6815e7e2926f410a92ab666fdfb5",
+  "treasury": "0x6d5dc628dAf2C6608D9DE1C9Af19564D36f46Fbf",
+  "operator": "0x07BB9ECE4e7d86c0e8f51eE96f8aB1A205D3F1DD",
+  "spinPositions": "0xc44791f13fac0b6550a3669121ad9400b542da91",
+  "adapters": {
+    "steakhouse": "0xe80952f041060368eac9c1301785d1c30e9a6907",
+    "spark": "0x57e6f88108e922451107b1230429d2fde8c6f610",
+    "uniswap-v3": "0xbd182560b7fd87f8ca42ae9c069de4607c98fafd",
+    "fables": "0x66432ded09de2d848f126ec32c49c8fd325ee66c",
+    "up-weth": "0xf6bb71001be07a59c11b1223dc1bb9d9de71fcd9",
+    "nvda": "0x1392cfd0935ea01b0274051c406ee71cf1002c01",
+    "gld": "0x283bd3f5dcb5b7e7118f58133c5f20b8c2199837",
+    "coin": "0x337f3b5d63492ab9ca928d121a589550022829a0",
+    "ausd": "0x6301c36cc19292fb163c6e3d2be9d3945446e3bc"
+  },
+  "blocks": {
+    "steakhouse": 102524522,
+    "spark": 102524536,
+    "uniswap-v3": 102524553,
+    "fables": 102524566,
+    "up-weth": 102524581,
+    "nvda": 102524598,
+    "gld": 102524614,
+    "coin": 102524628,
+    "ausd": 102524642,
+    "SpinPositions": 102619601
+  }
+}

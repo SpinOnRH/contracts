@@ -1,0 +1,40 @@
+{
+  "chainId": 46630,
+  "deployer": "0x150E759e7a54de09D43FB5758083D467Ad83B00E",
+  "contracts": {
+    "EntryPoint": "0xeed80f9f54fa75dbb391648d6a802e4932736ceb",
+    "Multicall3": "0xe535376a47dac6f1355d38b24f86270cedc24e5b",
+    "ERC6551Registry": "0x328dfce154bf11e288eb014ceb11e24e11e38dd3",
+    "AccountGuardian": "0xbc995b5c0649eb55ff0b0fb03b6eb5a4f33e59db",
+    "AccountV3": "0x913266684afd9269ae11fcc6715bd9f04d03872a",
+    "TestPonsFactory": "0x1ff855a96adc0e21abb3a75ff8697380a4e5d985",
+    "Spinners": "0x80b6a70be99beef32565581248b268cfede8a716",
+    "PonsAdapter": "0xa41634f0333dd416915d42f154b3f28a2733db23",
+    "SPIN": "0xa67D833f015211893B6E14F85231ba35D81bB4b8",
+    "SPINCurve": "0x30Eba35A0Ca60b3b5B830b2531F6DcD2507b0193",
+    "UpAdapter": "0x735fed2920962d10a6e1106eca6064e849943ee9",
+    "SpinBotGuard": "0xe80952f041060368eac9c1301785d1c30e9a6907"
+  },
+  "blocks": {
+    "EntryPoint": 134277380,
+    "Multicall3": 134277386,
+    "ERC6551Registry": 134277391,
+    "AccountGuardian": 134277397,
+    "AccountV3": 134277407,
+    "TestPonsFactory": 134277413,
+    "Spinners": 134277421,
+    "PonsAdapter": 134277439,
+    "SPIN": 134277549,
+    "UpAdapter": 135769669,
+    "SpinBotGuard": 136069508
+  },
+  "retired": {
+    "SpinBotGuard-2026-10-10": "0xda29aa6d0f4e23d275cf4deec075203a3203d617",
+    "SpinBotGuard-2026-10-15a": "0xa63dd06ebfbd16d3cd492a1997c56279ac8ce19d",
+    "SpinBotGuard-2026-10-15b": "0x97a6e9bd4f8e1c78b2e4770e4306147552c0550d",
+    "SpinBotGuard-2026-10-15c": "0xef4a4a7524452ae6433345dfaaf030433892f9cf"
+  },
+  "operators": [
+    "0xE19a0fC5077B241d857998a5dF547aba8633b715"
+  ]
+}

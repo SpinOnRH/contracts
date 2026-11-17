@@ -1,0 +1,18 @@
+# Foundry build output and fetched libraries (npm run setup).
+out/
+cache/
+lib/
+# forge's own run log.
+broadcast/
+
+# Node.
+node_modules/
+
+# Secrets: deploy keys, mnemonics, RPC URLs, explorer keys.
+.env
+.env.*
+!.env.example
+*.local
+
+# OS / editor.
+.DS_Store
