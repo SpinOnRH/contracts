@@ -1,6 +1,6 @@
-# spin-contracts
+# Spin Contracts
 
-The Solidity contracts of Spin, with their tests and deploy scripts. They are deployed on Robinhood
+The Solidity contracts of [Spin](https://spin.trading), with their tests and deploy scripts. They are deployed on Robinhood
 Chain mainnet (chain 4663) and testnet (chain 46630).
 
 ## Contents
